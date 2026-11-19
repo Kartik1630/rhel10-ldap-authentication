@@ -217,14 +217,6 @@ Screenshots demonstrating the LDAP server configuration and successful client au
 - Git and GitHub workflow
 - Linux troubleshooting
 
-## 🔐 Security Considerations
-
-- Never upload LDAP passwords or Directory Manager credentials.
-- Never upload private keys or sensitive configuration files.
-- Use TLS encryption for LDAP communication outside an isolated lab.
-- Use unique UID and GID numbers for LDAP users and groups.
-- Restrict LDAP access to trusted client machines.
-
 ## 👨‍💻 Author
 
 **Kartik Shinde**
